@@ -48,19 +48,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="LinqRb, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\LinqRb.1.2.0\lib\net45\LinqRb.dll</HintPath>
+      <HintPath>..\..\packages\LinqRb.1.2.0\lib\net45\LinqRb.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="NetrunnerDb.Net, Version=1.1.17.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\NetrunnerDb.Net.1.1.17.0\lib\net45\NetrunnerDb.Net.dll</HintPath>
+      <HintPath>..\..\packages\NetrunnerDb.Net.1.1.17.0\lib\net45\NetrunnerDb.Net.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="RestSharp, Version=105.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\RestSharp.105.1.0\lib\net45\RestSharp.dll</HintPath>
+      <HintPath>..\..\packages\RestSharp.105.1.0\lib\net45\RestSharp.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
